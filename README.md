@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Tim Abrahamson
+## My Name is Tim Abrahamson
 
 I enjoy building websites. :computer:
 
