@@ -14,7 +14,7 @@ Once the three month period expired, I was able to get a handful of freelance gi
 
 I am *actively* seeking a full time developer position. 
 
-**I'm Ready!** :raised_hands:
+**I Am Ready!** :raised_hands:
 
 I am always learning. :books:
 
