@@ -2,7 +2,7 @@
 
 ## My name is Tim Abrahamson
 
-I enjoy building websites. 
+I enjoy building websites. :computer:
 
 ### A Little About Myself
 
