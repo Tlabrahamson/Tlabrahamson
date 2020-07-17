@@ -8,7 +8,7 @@ I enjoy building websites. :computer:
 
 I was exposed to coding in high school. I took a couple of Java programming courses and while I didn't really grasp it fully, I enjoyed it. I was under the impression that you *had* to have a college degree to pursue a career in tech so my interest fizzled out. :frowning: I didn't have the funds and wanted to avoid the debt of a college education. :disappointed:
 
-Fast forward through a nine year stretch in the fast food industry, my fiance encouraged me to pursue my dream! I started to learn web development through freecodecamp.org and my love was revived. I decided to enroll in a 19 week program on full stack web development at a local community college and began to learn even more. After receiving the certification, I landed a 3 month internship with Kinetic Communications in Birmingham, AL.
+Fast forward through a nine year stretch in the fast food industry, my fiance encouraged me to pursue my dream! I started to learn web development through freecodecamp.org and my love was revived. I enrolled in a 19 week program on full stack web development at a local community college and began to learn even more. After receiving the certification, I landed a 3 month internship with Kinetic Communications in Birmingham, AL.
 
 Once the three month period expired, I was able to get a handful of freelance gigs and now I am here! 
 
