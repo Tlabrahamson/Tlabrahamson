@@ -38,7 +38,7 @@ PHP | WordPress |
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 
-### My Goals
+### Current Goals
 
 :white_check_mark: Learn Web Development Basics
 
@@ -46,6 +46,6 @@ PHP | WordPress |
 
 :white_check_mark: Get Professional Experience Through an Internship
 
-- [ ] Revisit Java <-- Actively doing this
+- [ ] Become a Frontend Developer
 
-- [ ] Get *the* Job
+- [ ] Revisit Java <-- Actively doing this
