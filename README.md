@@ -47,5 +47,3 @@ PHP | WordPress |
 :white_check_mark: Get Professional Experience Through an Internship
 
 - [ ] Become a Frontend Developer
-
-- [ ] Revisit Java <-- Actively doing this
