@@ -12,13 +12,13 @@ Fast forward through a nine year stretch in the fast food industry, my fiance en
 
 Once the three month period expired, I was able to get a handful of freelance gigs and now I am here! 
 
-I am *actively* seeking a full time developer position. 
+I'm *actively* seeking a full time developer position. 
 
-**I Am Ready!** :raised_hands:
+**I'm Ready!** :raised_hands:
 
-I am always learning. :books:
+I'm always learning. :books:
 
-I am always building new projects. :construction:
+I'm always building new projects. :construction:
 
 I don't push every project to git. :octocat:
 
@@ -27,9 +27,9 @@ What is this thing? --> :shipit:
 
 ### Tools I like to Use
 
-JS | React | HTML | CSS | Java|
--- | ----- | ---- | --- | --- |
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> | <img src="https://img.icons8.com/office/40/000000/react.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/metro/52/000000/java-coffee-cup-logo.png"/>
+JS | React | HTML | CSS |
+-- | ----- | ---- | --- |
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> | <img src="https://img.icons8.com/office/40/000000/react.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 #### I also use these sometimes
 
@@ -39,11 +39,5 @@ PHP | WordPress |
 
 
 ### Current Goals
-
-:white_check_mark: Learn Web Development Basics
-
-:white_check_mark: Attend A Bootcamp/Program to Become More Adept
-
-:white_check_mark: Get Professional Experience Through an Internship
 
 - [ ] Become a Frontend Developer
